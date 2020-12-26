@@ -1,0 +1,29 @@
+#myVideo {
+    width: 100%;
+    overflow: hidden;
+    background-position: initial !important;
+}
+
+.centered-heading {
+    position: absolute;
+    font-weight: bold;
+    top: 40%;
+    left: 40%;
+    color: white;
+    font-size: 4em;
+
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color: white;
+    font-size: 1.5em;
+}
+
+#continue {
+    position: absolute;
+    top: 60%;
+    left: 45%;
+}
